@@ -1,9 +1,9 @@
 import ImageWriter
 import math
 
-# Task 1
-# Code designed and written by: Selmane Tabet
-# Andrew ID: stabet
+
+# Code designed and written by: Selman Tabet
+
 # File Created: September 29, 9:00PM
 # Version 1.7, Oct. 10th, 2017.
 # Changelog:
